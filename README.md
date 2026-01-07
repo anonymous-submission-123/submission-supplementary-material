@@ -3,6 +3,6 @@
 This repository contains supplementary materials for the anonymous submission.
 
 - Appendix
-- Code for reproducibility
+- Manuscript - Full Extended Version
 
 This repository is anonymized for double-blind review.
