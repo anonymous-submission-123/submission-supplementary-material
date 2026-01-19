@@ -1,7 +1,7 @@
-# Anonymous UC security proof for PCMCPS
+# Anonymous UC security proof for PCMCP
 
 This repository provides supplementary UC security proof for the paper
-“PCMCPS: A Secure Privacy-Preserving Cross Multi-Party Channel Payment Scheme In Payment Channel Networks”.
+“PCMCP: A Secure Privacy-Preserving Cross Multi-Party Channel Payment Scheme for Payment Channel Networks”.
 
 The materials are provided to ensure the completeness of the UC framework presented in the paper and to allow reviewers to verify the correctness of the security arguments.
 
@@ -10,8 +10,8 @@ The materials are provided to ensure the completeness of the UC framework presen
 - **Full_UC_security_proof.pdf**
 
   A self-contained document that includes:
-  - the full ledger functionality for PCMCPS (\(\mathcal{L}_{CMC}\));
-  - the full case-by-case simulator for PCMCPS (\(\mathcal{S}_{CMC}\));
+  - the full ledger functionality for PCMCP (\(\mathcal{L}_{CMC}\));
+  - the full case-by-case simulator for PCMCP (\(\mathcal{S}_{CMC}\));
   - a mapping between the simulator and the security proof in the main paper;
   - notes on leakage, assumptions, and UC composability.
 
